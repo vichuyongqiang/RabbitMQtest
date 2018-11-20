@@ -1,0 +1,10 @@
+E:\selftest\RabbitMQTest\RabbitMQTestReceive\bin\Debug\RabbitMQTestReceive.exe.config
+E:\selftest\RabbitMQTest\RabbitMQTestReceive\bin\Debug\RabbitMQTestReceive.exe
+E:\selftest\RabbitMQTest\RabbitMQTestReceive\bin\Debug\RabbitMQTestReceive.pdb
+E:\selftest\RabbitMQTest\RabbitMQTestReceive\bin\Debug\RabbitMQ.Client.dll
+E:\selftest\RabbitMQTest\RabbitMQTestReceive\bin\Debug\RabbitMQ.ServiceModel.dll
+E:\selftest\RabbitMQTest\RabbitMQTestReceive\bin\Debug\RabbitMQ.Client.xml
+E:\selftest\RabbitMQTest\RabbitMQTestReceive\obj\Debug\RabbitMQTestReceive.csproj.CoreCompileInputs.cache
+E:\selftest\RabbitMQTest\RabbitMQTestReceive\obj\Debug\RabbitMQTestReceive.csproj.CopyComplete
+E:\selftest\RabbitMQTest\RabbitMQTestReceive\obj\Debug\RabbitMQTestReceive.exe
+E:\selftest\RabbitMQTest\RabbitMQTestReceive\obj\Debug\RabbitMQTestReceive.pdb
